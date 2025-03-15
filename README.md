@@ -22,3 +22,7 @@ A GUI application for visual localization using SuperGlue and SuperPoint.
 2. Configure algorithm parameters
 3. Start processing
 4. View and analyze results
+
+
+## Examples
+![](output/78852_viz.jpg)
