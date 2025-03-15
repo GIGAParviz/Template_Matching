@@ -26,3 +26,4 @@ A GUI application for visual localization using SuperGlue and SuperPoint.
 
 ## Examples
 ![](output/78852_viz.jpg)
+![](output/78870_viz.jpg)
